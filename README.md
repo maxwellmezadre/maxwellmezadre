@@ -28,13 +28,9 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwellmezadre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=maxwellmezadre&locale=pt-br&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maxwellmezadre/maxwellmezadre/output/snake.svg" alt="Snake animation" />
 
 ###
